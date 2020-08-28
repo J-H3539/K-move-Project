@@ -1,0 +1,8 @@
+ERROR: [2019 11월 05 16:55:44] com.JH.myapp.LogTestBasic - Oh No!!!
+WARN : [2019 11월 05 16:55:44] com.JH.myapp.LogTestBasic - Watch out!! this number and person 2019, SON!
+INFO : [2019 11월 05 16:55:44] com.JH.myapp.LogTestBasic - Hello, slf4j log!
+ERROR: [2019 11월 05 17:11:45] com.JH.myapp.LogTestBasic - Oh No!!!
+WARN : [2019 11월 05 17:11:45] com.JH.myapp.LogTestBasic - Watch out!! this number and person 2019, SON!
+INFO : [2019 11월 05 17:11:45] com.JH.myapp.LogTestBasic - Hello, slf4j log!
+DEBUG: [2019 11월 05 17:11:45] com.JH.myapp.LogTestBasic - What's wrong with this number 2019 ??
+TRACE: [2019 11월 05 17:11:45] com.JH.myapp.LogTestBasic - Here we are...
